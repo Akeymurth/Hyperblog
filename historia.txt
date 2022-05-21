@@ -1,5 +1,5 @@
 esto es un archivo de texto plano
 
-el texto plano se escribe en texto
+el texto plano se escribe en un archivo txt
 
 no tengo idea desde cuando, pero seria interesante, invetigarlo.
