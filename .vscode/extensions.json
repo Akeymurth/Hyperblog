@@ -3,6 +3,8 @@
         "github.copilot",
         "ritwickdey.live-sass",
         "glenn2223.live-sass",
-        "TabNine.tabnine-vscode"
+        "tabnine.tabnine-vscode",
+        "editorconfig.editorconfig",
+        "EditorConfig.EditorConfig"
     ]
 }
