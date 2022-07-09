@@ -5,7 +5,16 @@ body
     font-family: 'arial';
     font-size: 16px;
     margin: 0;
-    padding: 0;    
+    padding: 0;   
+    background: black; 
+}
+
+#cabecera #logo{
+    width: 30px;
+    margin: 10px;
+    vertical-align: middle;
+    /* vertical align nos sirve para centrar el texto debe de tener la opcion middle */
+
 }
 
 #cabecera{
@@ -30,6 +39,7 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin:  0 auto;
+    background: #373737;
 }
 
 #container h1
@@ -39,4 +49,6 @@ body
 
 #post{
     font-size: 20px;
+    background: #373737;
+    color: white;
 }
