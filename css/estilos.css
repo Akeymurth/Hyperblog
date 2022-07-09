@@ -10,7 +10,7 @@ body
 }
 
 #cabecera #logo{
-    width: 30px;
+    width: 50px;
     margin: 10px;
     vertical-align: middle;
     /* vertical align nos sirve para centrar el texto debe de tener la opcion middle */
