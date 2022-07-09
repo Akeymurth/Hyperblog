@@ -52,3 +52,11 @@ body
     background: #373737;
     color: white;
 }
+
+#footer{
+   color: white;
+   background-color: #777; 
+   text-align: center;
+   padding: 1em;
+   /* el padding sirve para darle espacio, como una especie de margen alrededor debe de ir en unidades "em" */
+}
