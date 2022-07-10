@@ -32,6 +32,14 @@ body
     font-size: 0.8em;
 }
 
+#imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    /* display block + margin-left y margin-right en auto sirven para alinear una imagen. */
+}
+
 #container
 {
     width: 50%;
