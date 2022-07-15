@@ -11,8 +11,5 @@
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
 
 - Este readme.md, solo es de practica, no te molestes si lo lees, es el pirmer readme.md que hago. 
