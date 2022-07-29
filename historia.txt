@@ -1,4 +1,4 @@
-Prueba demo, esto es un archivo de texto plano
+esto es un archivo de texto plano demo 2
 
 el texto plano se escribe en un archivo txt
 
