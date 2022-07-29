@@ -1,11 +1,20 @@
 body
 {
-    color: red;
+    color: black;
     text-align: center;
     font-family: 'arial';
     font-size: 16px;
     margin: 0;
-    padding: 0;    
+    padding: 0;   
+    background: black; 
+}
+
+#cabecera #logo{
+    width: 50px;
+    margin: 10px;
+    vertical-align: middle;
+    /* vertical align nos sirve para centrar el texto debe de tener la opcion middle */
+
 }
 
 #cabecera{
@@ -23,6 +32,14 @@ body
     font-size: 0.8em;
 }
 
+#imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    /* display block + margin-left y margin-right en auto sirven para alinear una imagen. */
+}
+
 #container
 {
     width: 50%;
@@ -30,6 +47,7 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin:  0 auto;
+    background: #373737;
 }
 
 #container h1
@@ -39,4 +57,14 @@ body
 
 #post{
     font-size: 20px;
+    background: #373737;
+    color: white;
+}
+
+#footer{
+   color: white;
+   background-color: #777; 
+   text-align: center;
+   padding: 1em;
+   /* el padding sirve para darle espacio, como una especie de margen alrededor debe de ir en unidades "em" */
 }
