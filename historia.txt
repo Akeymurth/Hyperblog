@@ -1,4 +1,4 @@
-esto es un archivo de texto plano
+cabio para crear un conflicto esto es un archivo de texto plano
 
 el texto plano se escribe en un archivo txt
 
