@@ -4,6 +4,9 @@ el texto plano se escribe en un archivo txt
 
 no tengo idea desde cuando, pero seria interesante, invetigarlo.
 
-aqui hacemos un nuevo cambio ya que necesito la version 3
+aqui hacemos un nuevo cambio ya que necesito la version 5
 
-version 4 prueba 5 de enero de 2023
+cambio a la cabecera prueba para checar git el 5 de enero del 2023 version 5
+
+cambio version 5 prueba 5 de enero de 2023
+
